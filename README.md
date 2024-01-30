@@ -28,7 +28,7 @@ Repositório criado para os desafios de programação propostos na formação da
 
 ### Autor 
 
-- [Gabriel Aranda](https://www.github.com/oGabriel-Aranda1406)
+- [Gabriel Aranda](https://www.github.com/Gabriel-Aranda1406)
 
 ### Entre em contato comigo
 
